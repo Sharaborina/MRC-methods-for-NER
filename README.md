@@ -13,3 +13,5 @@ Structure of files:
 8. out_nerel_inference_new.txt.zip - txt file of predictions
 9. Result_preprocess (1).ipynb - code for results preprocess (make plots, make pd dataframes for all entity types predictions)
 10. F1_scores_for_entities.ipynb - compute F1 score for every entity type
+
+11. Diplom_Sharaborina.docx - text of Diploma paper
